@@ -7,3 +7,4 @@ passlib[bcrypt]
 httpx
 pydantic
 pydantic-settings
+pydantic[email]
